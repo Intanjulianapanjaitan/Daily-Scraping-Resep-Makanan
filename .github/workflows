@@ -6,7 +6,7 @@ on:
 
 
 jobs:
-  covid-scrape:
+  resep-scrape:
     runs-on: macos-latest
     env:
       ATLAS_URL: ${{ secrets.ATLAS_URL }}
