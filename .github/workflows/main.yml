@@ -2,7 +2,7 @@ name: Resep Yummy Makanan
 
 on:
   schedule:
-  - cron: '*/7 * * * *'  # every 7 minutes
+  - cron: '15 0,6,12,18 * * * *'  # every 7 minutes
 
  
 jobs:
