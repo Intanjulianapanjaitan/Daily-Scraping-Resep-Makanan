@@ -3,4 +3,4 @@
 
 
 ## Deskripsi 
-Informasi yang disajikan dalam project kali ini adalah Menu Yummy Daily, yang berisi *Nama Makanan*, *Jumlah porsi*, *Reting makanan*, *Harga*,dan beberapa informasi lainnya yang diambil dari web [berikut]([https://www.iqair.com/indonesia/west-java/bogor](https://www.yummy.co.id/)).
+Informasi yang disajikan dalam project kali ini adalah Menu Yummy Daily, yang berisi *Nama Makanan*, *Jumlah porsi*, *Reting makanan*, *Harga*,dan beberapa informasi lainnya yang diambil dari web [berikut](https://www.yummy.co.id/).
