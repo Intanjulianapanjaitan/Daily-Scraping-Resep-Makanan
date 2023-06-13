@@ -4,9 +4,7 @@ on:
   schedule:
   - cron: '*/7 * * * *'  # every 7 minutes
 
-permissions:
-  contents: read
-  
+ 
 jobs:
   covid-scrape:
   runs-on: macos-latest
