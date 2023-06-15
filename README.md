@@ -15,7 +15,7 @@ Informasi yang disajikan dalam project kali ini adalah Menu Yummy Daily, yang be
 
 ## Visualisasi
 
-Berikut link visualisasi dari data yang telah di scraping : https:
+Berikut link visualisasi dari data yang telah di scraping : [https:](https://rpubs.com/IntanJP/1054731)
 
 ## Pengembang
 
