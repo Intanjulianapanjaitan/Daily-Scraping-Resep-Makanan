@@ -12,7 +12,11 @@
 Informasi yang disajikan dalam project kali ini adalah Menu Yummy Daily, yang berisi *Nama Makanan*, *Jumlah porsi*, *Reting makanan*, *Harga*,dan beberapa informasi lainnya yang diambil dari web [berikut](https://www.yummy.co.id/).
 
 <div align="left">
-  
+
+## Visualisasi
+
+Berikut link visualisasi dari data yang telah di scraping : https:
+
 ## Pengembang
 
 Intan Juliana Panjaitan - G1501222059
