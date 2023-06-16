@@ -15,6 +15,7 @@ Yummy adalah web yang menyediakan resep masak masakan, makanan, minuman, kue, ma
 <div align="left">
 
 ## Struktur Dokumen
+```  
   list(Nama_Masakan = NMhtml5,
              Reting = Rhtml5,
              Durasi = Dhtml5,
@@ -22,6 +23,7 @@ Yummy adalah web yang menyediakan resep masak masakan, makanan, minuman, kue, ma
              Harga = Hhtml5,
              Bahan_Utama = c(BUhtml5),
              Cara_Masak = c(CMhtml5))
+```
   
 ## Visualisasi
 
